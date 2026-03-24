@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "ba2c15c1-7a11-4d78-a611-4aea539fab4d",
+    "Name": "UsrCBIRelatedPage",
+    "ModifiedOnUtc": "\/Date(1774347562000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "CBI (Page settings)",
+    "DependsOn": []
+  }
+}

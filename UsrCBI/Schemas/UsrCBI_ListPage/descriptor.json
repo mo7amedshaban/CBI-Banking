@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "efdf682c-f49d-4e88-8067-c484e13b6175",
+    "Name": "UsrCBI_ListPage",
+    "ModifiedOnUtc": "\/Date(1774347562000)\/",
+    "Parent": {
+      "UId": "b7b898d0-8c77-4953-c097-23fa6800da02",
+      "Name": "ListPageV3Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "CBI list page",
+    "DependsOn": []
+  }
+}

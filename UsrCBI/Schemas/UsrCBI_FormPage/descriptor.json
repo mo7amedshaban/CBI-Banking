@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "0b45a465-9a5a-4d80-a6cf-df09a8cc1dbd",
+    "Name": "UsrCBI_FormPage",
+    "ModifiedOnUtc": "\/Date(1774347562000)\/",
+    "Parent": {
+      "UId": "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9",
+      "Name": "PageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "CBI form page",
+    "DependsOn": []
+  }
+}

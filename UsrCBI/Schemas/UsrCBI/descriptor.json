@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "148e2f22-6935-4660-be90-8a0ebd9c2ffa",
+    "Name": "UsrCBI",
+    "ModifiedOnUtc": "\/Date(1774347528000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "CBI",
+    "DependsOn": []
+  }
+}
